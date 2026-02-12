@@ -1,6 +1,6 @@
 """
-author:
-date:
+author: Judy El Shentnawy 
+date: 02/10/2026
 Investigating Variables
 """
 
